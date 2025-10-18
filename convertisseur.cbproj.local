@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/10/18 20:18:22.000.974,=C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\Project7PCH1.h</Transaction>
+    <Transaction>2025/10/18 20:18:25.000.307,=C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\Unit3.cpp</Transaction>
+    <Transaction>2025/10/18 20:19:01.000.763,C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\Project7PCH1.h=C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\convertisseurPCH1.h</Transaction>
+    <Transaction>2025/10/18 20:19:01.000.793,C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\Project7.cbproj=C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\convertisseur.cbproj</Transaction>
+    <Transaction>2025/10/18 20:19:18.000.504,C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\Unit3.h=C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\Uconvertisseur.h</Transaction>
+    <Transaction>2025/10/18 20:19:18.000.504,C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\Unit3.dfm=C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\Uconvertisseur.dfm</Transaction>
+    <Transaction>2025/10/18 20:19:18.000.504,C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\Unit3.cpp=C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\Uconvertisseur.cpp</Transaction>
+    <Transaction>2025/10/18 22:19:34.374,C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\convertisseur\convertisseurPCH2.h=C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\convertisseurPCH1.h</Transaction>
+    <Transaction>2025/10/18 22:19:34.442,C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\convertisseur\convertisseur.cbproj=C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\convertisseur.cbproj</Transaction>
+    <Transaction>2025/10/18 22:19:39.072,C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\convertisseur\convertisseur.cbproj=C:\Users\SADOUN\Documents\Embarcadero\Studio\Projets\convertisseur\convertisseur.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
